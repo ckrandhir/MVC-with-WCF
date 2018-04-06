@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0-*",
+  "description": "DataAccessLayer Class Library",
+  "authors": [ "CKUMAR2" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "net451": {
+      "frameworkAssemblies": {
+        "System.ComponentModel.DataAnnotations": "4.0.0.0",
+        "System.Data": "4.0.0.0",
+        "System.Data.SqlXml": "4.0.0.0",
+        "System.XML": "4.0.0.0"
+      }
+    },
+    "dotnet5.4": {
+      "dependencies": {   }
+    }
+  },
+  "dependencies": {
+  }
+}
